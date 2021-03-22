@@ -1,5 +1,5 @@
 <h1 align="center">
-    1º Desafio corrigindo o código
+    Desafio corrigindo o código
 </h1>
 
 <h4 align="left">

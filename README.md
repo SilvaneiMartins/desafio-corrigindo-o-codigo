@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="left">
-Dando um upgrade nos meus estudos na stack node js, o desagio proposto foi criar uma aplicação em node.js. Nesse desafio, temos uma aplicação Node.js que está em processo de desenvolvimento mas que já possui os testes necessários para fazer toda a validação dos requisitos (foi feito a correção de erros para validão de 9 erros).
+Dando um upgrade nos meus estudos na stack node js, o desafio proposto foi criar uma aplicação em node.js. Nesse desafio, temos uma aplicação Node.js que está em processo de desenvolvimento mas que já possui os testes necessários para fazer toda a validação dos requisitos (foi feito a correção de erros para validão de 9 erros).
 </h4>
 
 <p align="center">
